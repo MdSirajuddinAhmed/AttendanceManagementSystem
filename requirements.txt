@@ -1,0 +1,11 @@
+# Attendance Management System
+# Python Version
+Python>=3.10
+
+# This project uses only Python standard libraries:
+# tkinter
+# sqlite3
+# csv
+# datetime
+
+# No third-party packages are required.
